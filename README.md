@@ -27,12 +27,13 @@ This repo provides instructions for a simple git basics exercise.
 ### Exercise 2.1: A simple case
 
 1. `git branch my-new-feature`
-2. Create a new file `main.py` and add any code to it
-3. Ask git to track this file (remember you are now tracking it on the new branch, not main): `git add main.py`
-4. Commit your change `git commit main.py -m "Add main on branch"`
-5. Push your change `git push`. Since this is the first time you are pushing to this branch, git will ask you to set upstream. Copy and run the command it provides you to set upstream for this branch.
-6. Go to github and change the branch from the top left corner and see how you see the history from main plus the new commit you added
-7. Let's create a pull request on 
+2. `git checkout my-new-feature`
+3. Create a new file `main.py` and add any code to it
+4. Ask git to track this file (remember you are now tracking it on the new branch, not main): `git add main.py`
+5. Commit your change `git commit main.py -m "Add main on branch"`
+6. Push your change `git push`. Since this is the first time you are pushing to this branch, git will ask you to set upstream. Copy and run the command it provides you to set upstream for this branch.
+7. Go to github and change the branch from the top left corner and see how you see the history from main plus the new commit you added
+8. Let's create a pull request on 
 
 ### Exercise 2.2: Ok, let's create a conflict
 
