@@ -1,14 +1,14 @@
 # git-practice
 
-This repo is meant to be forked by students for a simple git basics exercise.
+This repo provides instructions for a simple git basics exercise.
 
 # Steps to follow
 
 ## Common steps
 
-1. Fork this repo by clicking on the fork button at the top right corner.
+1. Create a new repository on your github account
 
-2. Clone this repository by using the `git clone <repo address>` command. You can find the repo address by clicking on the green `Code` button on the main page of the repo. Make sure to get the address of YOUR FORK, not this repo (such that you have acccess rights to push to it).
+2. Clone this new repository by using the `git clone <repo address>` command. You can find the repo address by clicking on the green `Code` button on the main page of the repo.
 
 ## Exercise 1: basic git usage
 
